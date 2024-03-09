@@ -4,8 +4,10 @@
     box-sizing: border-box;
 }
 :root{
-  --primary-color:#FCF6F5;
-  --secondary-color:#990011;
+/*   --primary-color:#FCF6F5;
+  --secondary-color:#990011; */
+    --primary-color:#d7d9d8;
+  --secondary-color:#02e6b0;
 }
 .utube{
   color:var(--secondary-color);
