@@ -884,7 +884,10 @@ a{
     }
   }
   @media screen and (width:280px) and (max-height:660px){
-    .footer-container h3{ 
+     .Home-page{
+          height: 100%;
+      }
+      .footer-container h3{ 
       font-size: small;
     }
     .footer-container a{
@@ -907,6 +910,7 @@ a{
   }
   }
   @media screen and (min-height:480px) and (max-height:550px){
+      
     .outer-box{
       justify-content:center;
       align-items: center;
@@ -925,6 +929,9 @@ a{
     }
   }
   @media screen and (max-width:480px) and (max-height:720px){
+       .Home-page{
+          height: 100%;
+      }
     .outer-box{
       justify-content:center;
       align-items: center;
@@ -1297,7 +1304,10 @@ a{
   
   }
   @media screen and (min-width:350px) and (max-width:463px){
-    .card-1,.card-2,.card-3{
+     .Home-page{
+          height: 100%;
+      }
+      .card-1,.card-2,.card-3{
       height:100%;
       width:100%;
       display: flex;
@@ -1387,7 +1397,10 @@ a{
     }
   }
   @media (min-width:280px) and (max-width:350px) and (max-height:660px){
-  .card-3,.card-2,.card-1{
+   .Home-page{
+          height: 100%;
+      }
+      .card-3,.card-2,.card-1{
       font-size:small;
       padding:10px 5px;
     }
@@ -1771,6 +1784,9 @@ a{
       font-size: small;
       width:50%;
     }
+         .Home-page{
+          height: 100%;
+      }
       .Industry_image{
           
           padding-top: 20px 10px 20px 10px;
@@ -1810,6 +1826,9 @@ a{
   
     @media screen and (min-width: 421px) and (max-width: 767px)
     {
+         .Home-page{
+          height: 100%;
+      }
         .home_container img{
     width:250px;
     height:170px;
@@ -1971,6 +1990,9 @@ a{
     display: block;
     text-align: left;
   }
+       .Home-page{
+          height: 100%;
+      }
     .industry-speakers{
         
         padding-top: 20px;
@@ -2006,7 +2028,9 @@ a{
   }
   
   @media screen and (min-width:501px) and (max-width:600px) {
-  
+   .Home-page{
+          height: 100%;
+      }
     .industry-speakers li img{
         width:180px;
         height:180px;
@@ -2032,6 +2056,9 @@ a{
   }
   
   @media screen and (min-width:601px) and (max-width:750px) {
+       .Home-page{
+          height: 100%;
+      }
     .industry-speakers ul{
         display: flex;
         flex-direction: column;
@@ -2050,7 +2077,9 @@ a{
     
   }
   @media screen  and (min-width:751px) and (max-width:950px){
-  
+   .Home-page{
+          height: 100%;
+      }
   
     .industry-speakers ul{
        display: flex;
@@ -2566,6 +2595,9 @@ a{
    
   
   @media screen and  (min-width:351px)and (max-width:420px) {
+      .Home-page{
+          height: 100%;
+      }
     .topnav a:not(:first-child) {display: none;}
     .topnav a.icon {
       float: right;
@@ -2873,6 +2905,9 @@ a{
    
   
   @media screen and (min-width:421px) and (max-width:500px) {
+       .Home-page{
+          height: 100%;
+      }
     .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
@@ -3301,7 +3336,10 @@ a{
   
   
   @media screen and (min-width:600px) and (max-width:800px) {
-    .hosted-img img{
+     .Home-page{
+          height: 100%;
+      }
+      .hosted-img img{
       width:550px;
       height:350px;
     }
@@ -3746,7 +3784,9 @@ a{
     font-size: medium;
     padding: 6px;
    }
-
+ .Home-page{
+          height: 100%;
+      }
    .home_container{
     flex-direction: column;
    }
@@ -3772,7 +3812,10 @@ a{
   }
   }
   @media (min-width:280px) and (max-width:350px) and (max-height:660px){
-       .home_container img{
+       .Home-page{
+          height: 100%;
+      }
+      .home_container img{
     width:200px;
     height:160px;
    }
@@ -3803,6 +3846,9 @@ a{
 
   @media (max-width:680px)
   {
+       .Home-page{
+          height: 100%;
+      }
     .div1,.div2,.div3{
       display: flex; /* Makes the elements inside the class flex items */
       flex-direction: column; /* Arranges the items horizontally */
@@ -3821,6 +3867,9 @@ a{
 
   @media (min-width:681px) and (max-width:980px)
   {
+       .Home-page{
+          height: 100%;
+      }
     .speakers{
       margin:0% 2%;
       display: flex;
