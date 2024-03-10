@@ -3678,6 +3678,22 @@ a{
     }
   }
   @media screen and (min-width:350px) and (max-width:463px){
+       .home_container img{
+    width:220px;
+    height:160px;
+   }
+   .home_container .para{
+    font-size: medium;
+    padding: 6px;
+   }
+
+   .home_container{
+    flex-direction: column;
+   }
+    .date-box{
+      font-size: small;
+      width:50%;
+    }
   .footer-container h3{ 
     font-size: medium;
   }
@@ -3696,6 +3712,22 @@ a{
   }
   }
   @media (min-width:280px) and (max-width:350px) and (max-height:660px){
+       .home_container img{
+    width:200px;
+    height:160px;
+   }
+   .home_container .para{
+    font-size: medium;
+    padding: 10px;
+   }
+
+   .home_container{
+    flex-direction: column;
+   }
+    .date-box{
+      font-size: small;
+      width:50%;
+    }
       .footer-container h3{ 
         font-size: small;
       }
