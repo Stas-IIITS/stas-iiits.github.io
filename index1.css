@@ -1699,7 +1699,22 @@ a{
   
     
     @media screen and (max-width:350px){
-  
+    .home_container img{
+    width:220px;
+    height:160px;
+   }
+   .home_container .para{
+    font-size: medium;
+    padding: 10px;
+   }
+
+   .home_container{
+    flex-direction: column;
+   }
+    .date-box{
+      font-size: small;
+      width:50%;
+    }
       .Industry_image{
           
           padding-top: 20px 10px 20px 10px;
@@ -1740,7 +1755,22 @@ a{
   
   
     @media screen and (min-width:350px)and (max-width:420px){
-  
+    .home_container img{
+    width:220px;
+    height:170px;
+   }
+   .home_container .para{
+    font-size: medium;
+    padding: 10px;
+   }
+
+   .home_container{
+    flex-direction: column;
+   }
+    .date-box{
+      font-size: small;
+      width:50%;
+    }
       .Industry_image{
           
           padding-top: 20px 10px 20px 10px;
@@ -1780,7 +1810,22 @@ a{
   
     @media screen and (min-width: 421px) and (max-width: 767px)
     {
-      
+        .home_container img{
+    width:250px;
+    height:170px;
+   }
+   .home_container .para{
+    font-size: medium;
+    padding: 10px;
+   }
+
+   .home_container{
+    flex-direction: column;
+   }
+    .date-box{
+      font-size: small;
+      width:50%;
+    }
       .Industry_image{
           
       padding-top: 20px 10px 20px 10px;
@@ -2323,7 +2368,22 @@ a{
       font-size: 1rem;
     }
   
-  
+    .home_container img{
+    width:200px;
+    height:160px;
+   }
+   .home_container .para{
+    font-size: medium;
+    padding: 6px;
+   }
+
+   .home_container{
+    flex-direction: column;
+   }
+    .date-box{
+      font-size: small;
+      width:50%;
+    }
   
     
   .scrollcolor{
